@@ -1,4 +1,4 @@
-div.hasDatepicker {
+iv.hasDatepicker {
 	display: block;
 	padding: 0;
 	overflow: visible;
@@ -133,4 +133,3 @@ div.hasDatepicker {
 .ui-datepicker .ui-datepicker-header.ui-corner-all {
 	border-radius: 0;
 	-webkit-border-radius: 0;
-}
